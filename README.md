@@ -1,4 +1,4 @@
-[![](https://noqta.tn/api/about/me.svg)](https://twitter.com/anis_marrouchi)
+![](https://noqta.tn/api/about/me.svg)
 
 ```sh
 curl -L noqta.tn/api/about/me
