@@ -4,4 +4,4 @@
 ```sh
 curl -L noqta.tn/api/about/me
 ```
-[](https://iplogger.org/2n8vN7)
+[](https://iplogger.org/2n8vN7.jpg)
