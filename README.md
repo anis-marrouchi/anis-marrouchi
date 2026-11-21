@@ -1,4 +1,4 @@
-[![](https://noqta.tn/api/about/me.svg)](https://noqta.tn/api/about/me.svg)
+[![](https://noqta.tn/api/about/me.svg)](https://noqta.tn/api/about/me)
 
 
 ```sh
