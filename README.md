@@ -1,10 +1,8 @@
-<a href="https://github.com/anis-marrouchi/agentx">
-  <picture>
+<picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://noqta.tn/api/about/me.svg?theme=dark">
     <source media="(prefers-color-scheme: light)" srcset="https://noqta.tn/api/about/me.svg">
     <img alt="Anis Marrouchi, building AgentX" src="https://noqta.tn/api/about/me.svg">
-  </picture>
-</a>
+</picture>
 
 
 ```sh
